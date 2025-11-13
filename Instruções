@@ -1,5 +1,5 @@
 Enviar um commit para o git:
 Realizar alterações
-git add .
+git add . ou git add nome_do_ficheiro
 git commit -m "descrição de alterações"
 git push
