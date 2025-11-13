@@ -4,3 +4,7 @@ git add . ou git add nome_do_ficheiro
 git commit -m "descrição de alterações"
 git push
 git log --oneline verificar estado do commit
+
+Boas práticas:
+-> Num commit usar prefixos(tags) para categorizar a alteraçao
+ex: feat:, fix:, docs:, style:, test:, chore:,
