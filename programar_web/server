@@ -62,7 +62,7 @@ tag de artigo: <article>
 
 Elementos Aninhados
 elementos colocados dentro de outros elementos sao designados elementos aninhados
-inserir elementos dentro de elementos: <p>   <b> </b>     </p>
+inserir elementos dentro de elementos: <p>   -><b> </b><- </p>
 <b></b>:bold
 <u></u>:underline
 <p align="right"> </p>: alinha o texto à direita
@@ -74,3 +74,28 @@ title: apresenta uma dica (apontador)
 
 Style:Utilizado para incluir estilos CSS incorporados:
 <p style="color: #0000FF; font-family: Calibri"> O meu nome é Torcato </p>
+
+Orientação:
+<html dir="rtl"></html>: o texto flui da direita para a esquerda(right to left)
+
+"href=" -> utilizado nas tags de âncora <a> para especificar o destino da ligação:
+<a href="http://www.google.com"> Aqui fica o link.</a>
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Formatação de HTML e Texto
+Texto em italico:
+<p><i>   texto </i></p>
+
+Riscar texto:
+<p><strike> isto risca o texto </strike></p>
+
+Monoespaço:
+<p><tt>este texto tem um "monoespaço"</tt></p>:coloca caracteres com a mesma largura(a ocupar o mesmo espaço)
+
+sobrescrito:
+<p> olha para isto <sup> este texto esta "sobrescrito" </sup></p>:Escreve sobre o texto como fosse potência
+
+subscrito:
+<p> olha para isto <sub> este texto esta "subescrito" </sub></p>:Escreve abaixo
+
+
