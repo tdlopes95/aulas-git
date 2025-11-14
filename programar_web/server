@@ -20,3 +20,26 @@ The 1st web browsers, including Mosaic and its impact on user experience
 the transition from text-based interfaces to graphical web browsers that integrated text.
 
 Introduction to web architecture
+FTP -> File transfer protocol
+facilitates the transfer of files between systems over the internet, one of the earliest protocols
+gopher -> aimed to improve online interactivity
+
+Introdução ao HTML.
+linguagem mais amplamente aprendida para o desenvolvimento web
+creador: Sir Tim Bernes-Lee
+utiliza tags predefinidas interpretadas por browsers como o safari, firefox, chrome.
+conteudo é escrito utilizando editores como o notebook, vs code e sublime text e guardado com as extensoes .htm ou .html
+
+caracteristicas:
+-facil de programar
+-linguagem independente de plataforma
+-suporta todo o tipo de dados
+-suporta links e hypertextos
+-permite a integraçao de outas linguagem como CSS, javascript e PHP
+
+estruturas basicas de HTML:
+<!DOCTYPE html>: tag de declaração que define a versão HTML
+<html>:tag raiz que engloba todo o documento HTML
+<head>:tag de cabeçalho que contem metadados sobre o documento
+<title>:tag de titulo que define o titulo da pagina apresentado no separador de browser
+<body>:tag de corpo que contem o conteudo visivel da pagina web
