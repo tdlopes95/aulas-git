@@ -1,3 +1,2 @@
 This is for git classes....
-for CET, and for classes
-teste1
+for CET
