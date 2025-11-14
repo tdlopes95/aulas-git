@@ -68,3 +68,6 @@ inserir elementos dentro de elementos: <p>   <b> </b>     </p>
 <p align="right"> </p>: alinha o texto à direita
 <p align="left"> </p>: alinha o texto à esquerda
 
+Atributos HTML genéricos
+title: apresenta uma dica (apontador)
+<p title="Nome do Utilizador!" align="left"> Torcato! </p>(nome de utilizador é só uma dica-> quando passa o rato por cima)
