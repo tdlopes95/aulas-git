@@ -65,3 +65,5 @@ elementos colocados dentro de outros elementos sao designados elementos aninhado
 inserir elementos dentro de elementos: <p>   <b> </b>     </p>
 <b></b>:bold
 <u></u>:underline
+<p align="right"> </p>: alinha o texto à direita
+<p align="left"> </p>: alinha o texto à esquerda
