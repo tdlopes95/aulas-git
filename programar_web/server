@@ -44,3 +44,18 @@ estruturas basicas de HTML:
 <title>:tag de titulo que define o titulo da pagina apresentado no separador de browser
 <body>:tag de corpo que contem o conteudo visivel da pagina web
 
+tags basicas:
+tag de declaração: <!DOCTYPE html>
+tag raiz: <html>
+tag de cabeçalho: <head>
+tag de titulo: <title>
+tag de corpo: <body>
+tag de titulo <h1> a <h6> definem os titulos por ordem decrescente de tamanho
+tag de paragrafo: <p>
+tag de quebra de linha: <br></br>
+tag de centralização de conteudo: <center>
+tag de linha horizontal: <hr>
+tag de preservação da formataçao <pre>
+tag de espaço simples: &nbsp; insere um espaço nao separavel
+anchor tag: <a href="URL"> -> cria hyperlligaçoes
+tag de artigo: <article>
