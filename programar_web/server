@@ -59,3 +59,9 @@ tag de preservação da formataçao <pre>
 tag de espaço simples: &nbsp; insere um espaço nao separavel
 anchor tag: <a href="URL"> -> cria hyperlligaçoes
 tag de artigo: <article>
+
+Elementos Aninhados
+elementos colocados dentro de outros elementos sao designados elementos aninhados
+inserir elementos dentro de elementos: <p>   <b> </b>     </p>
+<b></b>:bold
+<u></u>:underline
