@@ -145,4 +145,10 @@ OU
 
 tag de endereços
 <adress></adress>
+--------------------------------------------------------------------------------------------------------------------------------------
+Tag de referencias HTML
+<meta name="keyword" content="valor"> <- nao fecha (</meta>) e nao aparece na folha da pagina(user): informação para o motor de busca <!-- tem de estar inserido dentro da tag HEAD!! -->
+
+descrição de documento HTML
+<meta name="description" content="descrição sobre a pagina html">
 
