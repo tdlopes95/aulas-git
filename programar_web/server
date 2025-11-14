@@ -67,3 +67,4 @@ inserir elementos dentro de elementos: <p>   <b> </b>     </p>
 <u></u>:underline
 <p align="right"> </p>: alinha o texto à direita
 <p align="left"> </p>: alinha o texto à esquerda
+
