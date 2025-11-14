@@ -99,7 +99,7 @@ subscrito:
 <p> olha para isto <sub> este texto esta "subescrito" </sub></p>:Escreve abaixo
 
 texto eliminado:
-<p>este texto está <del> eliminado! </del><ins>introduzido</ins></p>:del risca o texto, inst sublinha em baixo o texto
+<p>este texto está <del> eliminado! </del><ins>introduzido</ins></p>:del risca o texto, ins sublinha em baixo o texto
 
 Texto maior:
 <p>este texto está <big> Grande!</big> </p>
@@ -115,6 +115,34 @@ Texto agrupado: (cria divisões)
 </div>
 </div id="second" align="right">
 <h2>Este é o segundo titulo </h2>
-<p>este é o segundo parágrafo </p>
+<p>Este é o segundo parágrafo </p>
 </div>
+
+TAGS de frase HTML
+Usadas para fins especiais para formatar texto com sgnificado semântico
+
+tag para enfatizar texto:
+<em>
+<p><em> Este texto está enfatizado. </em></p> (fica em itálico)
+
+tag para marcar texto
+<mark>
+<p><mark>Este texto está marcado</mark></p> (fica destacado -> a amarelo)
+
+tag de texto forte
+<strong>
+<p><strong>este texto está STRONG</strong></p> (fica bold)
+
+tag de abreviatura
+<abbr>
+<p><abbr title="Johnathan"> Jonny </abbr> é o nome do meu caro colega </p>
+
+tag de citação
+<blockquote>
+<blockquote>Sou engenheiro de software... É o exemplo de texto citado</blockquote>
+OU
+<cite>Sou engenheiro de software... É TAMBEM o exemplo de texto citado</cite> (cita de forma diferente)
+
+tag de endereços
+<adress></adress>
 
