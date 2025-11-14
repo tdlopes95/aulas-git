@@ -82,7 +82,7 @@ Orientação:
 <a href="http://www.google.com"> Aqui fica o link.</a>
 
 -----------------------------------------------------------------------------------------------------------------------------------
-Formatação de HTML e Texto
+Formatação de texto em HTML
 Texto em italico:
 <p><i>   texto </i></p>
 
@@ -98,4 +98,23 @@ sobrescrito:
 subscrito:
 <p> olha para isto <sub> este texto esta "subescrito" </sub></p>:Escreve abaixo
 
+texto eliminado:
+<p>este texto está <del> eliminado! </del><ins>introduzido</ins></p>:del risca o texto, inst sublinha em baixo o texto
+
+Texto maior:
+<p>este texto está <big> Grande!</big> </p>
+
+Texto menor:
+<p>este texto está <small>anão</small></p>
+
+Texto agrupado: (cria divisões)
+<div></div>
+<div id="first" align="left">
+<h1>Este é o primeiro titulo. </h1>
+<p>Este é o primeiro parágrafo </p>
+</div>
+</div id="second" align="right">
+<h2>Este é o segundo titulo </h2>
+<p>este é o segundo parágrafo </p>
+</div>
 
