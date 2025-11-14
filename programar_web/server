@@ -2,3 +2,21 @@ key components of the world wide web:
 Web browsers: Software apps (chorme,firefox)
 Web pages: Documents written in HTML(text,images,videos)
 Web servers: Computers that store web content and serve upon request
+
+Distinction between WWW and the internet:
+Scope:
+the internet is the broader network of connected devices and infrastructure
+the WWW is a service that operates on the internet, specifically focused on accessing and sharing info
+
+Tim Berners-Lee -> creator of the internet (computer scientist at CERN)
+creations:
+HTML(hypertext markup language)
+HTTP(hypertext transfer protocol)
+URL(Uniform Resource Locator)
+the 1st website
+
+Development of Web browsers
+The 1st web browsers, including Mosaic and its impact on user experience
+the transition from text-based interfaces to graphical web browsers that integrated text.
+
+Introduction to web architecture
