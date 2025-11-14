@@ -71,3 +71,6 @@ inserir elementos dentro de elementos: <p>   <b> </b>     </p>
 Atributos HTML genéricos
 title: apresenta uma dica (apontador)
 <p title="Nome do Utilizador!" align="left"> Torcato! </p>(nome de utilizador é só uma dica-> quando passa o rato por cima)
+
+Style:Utilizado para incluir estilos CSS incorporados:
+<p style="color: #0000FF; font-family: Calibri"> O meu nome é Torcato </p>
